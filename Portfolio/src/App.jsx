@@ -20,7 +20,7 @@ import "./Hero.css";
 // --- Static Data Configuration ---
 const DATA = {
   name: "Kgodiso Matsepe",
-  title: "Full-Stack & Cloud Specialist",
+  title: "Full-Stack Developer",
   tagline:
     "Building scalable applications with a focus on performance and robust infrastructure.",
   resumeUrl: "/placeholder-resume.pdf", // Placeholder URL for the resume download
