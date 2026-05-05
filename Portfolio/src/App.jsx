@@ -28,7 +28,7 @@ const DATA = {
     {
       title: "Full-Stack Development",
       description:
-        "From database design to frontend deployment, specializing in React and robust Python/Java backends.",
+        "From database design to frontend deployment, specializing in React and Python/Java backends.",
     },
     {
       title: "Cloud Infrastructure (AWS)",
